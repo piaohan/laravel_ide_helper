@@ -1,10 +1,15 @@
 <?php
 /**
  * A helper file for Laravel 5, to provide autocomplete information to your IDE
- * Generated for Laravel 5.4.27 on 2017-06-18.
+ * 
  *
  * @author Barry vd. Heuvel <barryvdh@gmail.com>
  * @see https://github.com/barryvdh/laravel-ide-helper
+ *
+ * Generated for Laravel 5.4.27 on 2017-06-18.
+ * Utils:
+ * @author piaohan <whatissrc@gmail.com>
+ * @see https://github.com/piaohan/laravel-ide-helper
  */
 namespace  {
     exit("This file should not be included, only analyzed by your IDE");
