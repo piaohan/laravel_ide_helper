@@ -10,9 +10,9 @@ laravel自动提示补全功能,提取自ide-helper
 ```
 
 
-现在使用方法:
+现在使用方法:
 ```
-wget https://raw.githubusercontent.com/piaohan/laravel-ide-helper/master/_ide_helper.php 
+wget https://raw.githubusercontent.com/piaohan/laravel-ide-helper/master/_ide_helper.php
 ```
 
 
