@@ -5,7 +5,7 @@ laravel自动提示补全功能,提取自ide-helper
 原插件使用步骤:
 ```
 1.composer
-2.注册门面
+2.容器注册
 3.artisan
 ```
 
@@ -32,7 +32,7 @@ composer require barryvdh/laravel-ide-helper doctrine/dbal
 composer require --dev barryvdh/laravel-ide-helper doctrine/dbal
 ```
 
-## 2.注册门面
+## 2.容器注册
 config/app.php
 ```
 Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
@@ -42,3 +42,5 @@ Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 php artisan ide-helper:generate
 php artisan ide-helper:model
 ```
+---
+骚年,准备好了,开始感受吧...呵呵
