@@ -25,11 +25,11 @@ wget https://raw.githubusercontent.com/piaohan/laravel_ide_helper/master/_ide_he
 
 ## 1.composer 引入包
 ```
-composer require barryvdh/laravel-ide-helper doctrine/dbal --dev
+composer require barryvdh/laravel-ide-helper doctrine/dbal
 ```
 或者只用于`开发环境`
 ```
-composer require --dev barryvdh/laravel-ide-helper doctrine/dbal
+composer require barryvdh/laravel-ide-helper doctrine/dbal  --dev 
 ```
 
 ## 2.容器注册
